@@ -6,7 +6,7 @@ const app = {};
 
 // API section
 app.movieAPIKey = "6e1d55b2";
-app.movieBaseURL = "http://www.omdbapi.com";
+app.movieBaseURL = "https://www.omdbapi.com";
 app.retroRewindAPIKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7ImlkIjoiNjA1OWYyNGU5MDk0Y2QwNDNiNzFlN2I5In0sImlhdCI6MTYxNjUwNzQ3MSwiZXhwIjoxNjQ4MDQzNDcxfQ.g5zpjH1L1H49r2DItaSQ-E7ADSgLpGD5LA2RgGtjR8E";
 app.retroRewindBaseURL = "https://retroapi.hackeryou.com/api"
 
